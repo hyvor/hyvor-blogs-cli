@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import setup from './lib/setup.js';
 import async from 'async'
 import watch from "./lib/watch.js";

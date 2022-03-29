@@ -6,6 +6,9 @@
     "scripts": {
         "test": "cd test && node ../index.js"
     },
+    "bin": {
+        "hyvor-blogs-cli": "./index.js"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/hyvor/hyvor-blogs-cli.git"
