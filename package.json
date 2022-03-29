@@ -1,0 +1,32 @@
+{
+    "name": "hyvor-blogs-cli",
+    "version": "1.0.0",
+    "description": "Hyvor Blogs CLI for theme development",
+    "main": "index.js",
+    "scripts": {
+        "test": "cd test && node ../index.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hyvor/hyvor-blogs-cli.git"
+    },
+    "keywords": [
+        "hyvor",
+        "blogs"
+    ],
+    "author": "Supun Kavinda <supun@hyvor.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hyvor/hyvor-blogs-cli/issues"
+    },
+    "homepage": "https://github.com/hyvor/hyvor-blogs-cli#readme",
+    "dependencies": {
+        "async": "^3.2.3",
+        "chokidar": "^3.5.3",
+        "dotenv": "^16.0.0",
+        "got": "^12.0.3",
+        "ora": "^6.1.0"
+    },
+    "type": "module"
+}
