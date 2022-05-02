@@ -8,7 +8,7 @@ This is a tool for developing Hyvor Blogs themes. See [Theme Development Documen
 1. Install this CLI tool globally in your computer using NPM
 
 ```bash
-npm install -g hyvor-blog-cli
+npm install -g hyvor-blogs-cli
 ```
 
 2. Create a new folder for your theme.
