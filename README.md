@@ -17,14 +17,22 @@ npm install -g hyvor-blogs-cli
 mkdir my-theme
 ```
 
-3. `cd` and run this tool there.
+3. `cd` to theme folder and run `hyvor-blogs-cli init`
 
 ```bash
 cd my-theme
+hyvor-blogs-cli init
+```
+
+This will create all required folders and files of your theme for you to start.
+
+4. Next, start development server
+
+```bash
 hyvor-blogs-cli
 ```
 
-This will create all required folders and files of your theme for you to start and will also start a local server, which allows you to test your theme.
+This will start a local server, which allows you to test your theme.
 
 4. Visit `127.0.0.1:8855` to test the theme.
 
@@ -38,4 +46,4 @@ Data of the blog is from our demo blog (demo.hyvorblogs.io). It has a several po
 
 ## Using GIT
 
-If you are using GIT, make sure to add `.hb.cli.json` to .gitignore.
+If you are using GIT, make sure to add `.env` to .gitignore.
