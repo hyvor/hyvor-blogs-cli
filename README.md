@@ -1,6 +1,6 @@
 # Hyvor Blogs CLI
 
-This is a tool for developing Hyvor Blogs themes. See [Theme Development Documentation](https://blogs.hyvor.com/docs/themes-overview) to learn about developing themes.
+See Hyvor Blogs [Theme Development Documentation](https://blogs.hyvor.com/docs/themes-overview).
 
 ## Usage
 

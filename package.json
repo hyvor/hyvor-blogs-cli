@@ -1,13 +1,13 @@
 {
     "name": "hyvor-blogs-cli",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Hyvor Blogs CLI for theme development",
-    "main": "index.js",
+    "main": "lib/index.js",
     "scripts": {
-        "test": "cd test && node ../index.js"
+        "test": "cd tests && node ../index.js"
     },
     "bin": {
-        "hyvor-blogs-cli": "./index.js"
+        "hyvor-blogs-cli": "lib/index.js"
     },
     "repository": {
         "type": "git",

@@ -1,4 +1,4 @@
 node_modules
-test/*
+tests/theme/*
 .env
 .idea
