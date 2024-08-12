@@ -1,6 +1,6 @@
 {
     "name": "hyvor-blogs-cli",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Hyvor Blogs CLI for theme development",
     "main": "lib/index.js",
     "scripts": {
